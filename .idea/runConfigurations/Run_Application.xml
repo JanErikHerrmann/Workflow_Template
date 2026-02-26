@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run Application" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.siemens.template_workflow.TemplateWorkflowApplication" />
+    <module name="Template_Workflow" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
