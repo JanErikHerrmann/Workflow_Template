@@ -25,5 +25,5 @@ All code and webpages should be in this project.
 
 Please document any assumptions you make during the development.
 
-The tasks are described in the following file: Tasks/workflow_test_cases.md (Tasks/workflow_test_cases.md)
+The tasks are described in the following file: Tasks/workflow_test_cases_new.md
 The logic and webpages are to be placed in the src folder. (src/)
