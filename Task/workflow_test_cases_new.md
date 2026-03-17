@@ -3,7 +3,7 @@ For this test, there are no directories or files where the task should be comple
 If you need to make an assumption about a task, please document it in the code comments or the [assumptions.md](assumptions.md) file.
 
 # Internal Supply Chain Management Test Cases
-**Notes:** Use PostgresSQL as a database. Table structures:
+**Notes:** Use PostgresSQL as a database (how? pls send help). Table structures:
 
 - **employee**
     - `id` (Primary Key, Integer, Auto-increment)

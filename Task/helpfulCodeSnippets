@@ -1,0 +1,14 @@
+// apparently you have to input this into the SQL shell (whereever it can be found...)
+CREATE DATABASE my_test_db1;
+
+CREATE TABLE employee (
+  id INT,
+  username,
+  password_hash,
+  email,
+  role,
+  created_at,
+  updated_at
+);
+
+// and repeat for all the table entries
