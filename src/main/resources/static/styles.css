@@ -1,0 +1,11 @@
+/* Basic responsive styles for the admin UI */
+body { padding-bottom: 50px; }
+.table-container { margin-top: 1rem; }
+.table-card { box-shadow: 0 2px 6px rgba(0,0,0,0.08); }
+.search-input { max-width: 360px; }
+.table thead th { cursor: pointer; }
+@media (max-width: 767px) {
+  .table-responsive { font-size: 0.9rem; }
+  .search-input { max-width: 100%; }
+}
+
